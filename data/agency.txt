@@ -1,0 +1,3 @@
+agency_phone,agency_fare_url,agency_url,agency_id,agency_name,agency_timezone,agency_lang
+519-451-1347,http://www.ltconline.ca/Fares.htm,http://www.ltconline.ca,LTC -2017 NOVEMBER  Schedules Rev 1.0,London Transit,America/Toronto,en
+519-451-1347,http://www.ltconline.ca/Fares.htm,http://www.ltconline.ca,LTC -2018 FEBRUARY Schedules,London Transit,America/Toronto,en
